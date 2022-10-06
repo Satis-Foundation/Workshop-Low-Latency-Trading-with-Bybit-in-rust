@@ -1,0 +1,22 @@
+[package]
+name = "Bybit"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "bybit_demo"
+path = "src/lib.rs"
+
+[dependencies]
+ws = "0.9.2"
+env_logger = "0.9.1"
+serde_json = "1.0"
+rust-bybit = { git = "https://github.com/yufuquant/rust-bybit.git" }
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+hex = "0.4.3"
+ring = "0.16.20"
+serde = "1.0.145"
+futures = "0.3.24"
