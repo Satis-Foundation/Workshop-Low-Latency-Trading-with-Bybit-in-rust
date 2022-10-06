@@ -4,8 +4,8 @@
 - Docker installed
     - link: https://docs.docker.com/engine/install/
 - Clone or download this repo
-    - Clone: `git clone git@gitlab.com:tim.liu1/kl_demo.git`
-    - Download: https://gitlab.com/tim.liu1/kl_demo/-/archive/main/kl_demo-main.zip
+    - Clone: `git clone https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust.git`
+    - Download: https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust/archive/refs/heads/main.zip
 - run `docker build -t low-latency-trading-with-bybit-in-rust .` within cloned dir
 - Sign up a Bybit testnet account
     - link: https://testnet.bybit.com/
