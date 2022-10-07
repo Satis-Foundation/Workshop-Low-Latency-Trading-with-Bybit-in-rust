@@ -6,7 +6,7 @@
 1. Clone or download this repo
     - git clone: `git clone https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust.git`
     - Download: https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust/archive/refs/heads/main.zip
-1. run `docker build -t low-latency-trading-with-bybit-in-rust .` **within cloned dir**
+1. **Within cloned dir** run `docker build -t low-latency-trading-with-bybit-in-rust .` 
 1. Sign up a Bybit testnet account
     - link: https://testnet.bybit.com/
 1. Enable 2FA in setting
