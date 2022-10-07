@@ -1,15 +1,15 @@
 # Low Latency Trading with Bybit in Rust
 
 ## Preparation (MUST DO BEFORE COME!!!!)
-- Docker installed
+1. Docker installed
     - link: https://docs.docker.com/engine/install/
-- Clone or download this repo
-    - Clone: `git clone https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust.git`
+1. Clone or download this repo
+    - git clone: `git clone https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust.git`
     - Download: https://github.com/Satis-Foundation/Workshop-Low-Latency-Trading-with-Bybit-in-rust/archive/refs/heads/main.zip
-- run `docker build -t low-latency-trading-with-bybit-in-rust .` within cloned dir
-- Sign up a Bybit testnet account
+1. run `docker build -t low-latency-trading-with-bybit-in-rust .` **within cloned dir**
+1. Sign up a Bybit testnet account
     - link: https://testnet.bybit.com/
-- Enable 2FA in setting
+1. Enable 2FA in setting
 
 ## (Suggested) Additional setup
 - Setup Bybit testnet api key
